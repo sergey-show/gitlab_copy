@@ -2,7 +2,7 @@
 
 Copy all projects from Gitlab
 
-#### Thats script crated for easy and faster copy all projects for group
+#### Thats script created for easy and faster copy all projects for group
 
 When you can use this script for example:
 
